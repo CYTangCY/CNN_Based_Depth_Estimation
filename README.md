@@ -1,6 +1,6 @@
 # CNN_Based_Depth_Estimation
 Use flowdep_V1 and 2Dgray_image to predict depth with IMU and Camera.
-
+![image](https://github.com/CYTangCY/CNN_Based_Depth_Estimation/blob/main/depthestimation.png)
 ## Dependencies
 
 ### Run&Train
