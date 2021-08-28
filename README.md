@@ -18,7 +18,8 @@ Use flowdep_V1 and 2Dgray_image to predict depth with IMU and Camera.
 * matplotlib
 
 ## Usage
-### To Train the model, you need to download DataSet from Kitti DepthEstimation(for Depth map) and rawDataset(for IMU_DATA and RawImage to calculate opticalflow)
+### To Train the model
+you need to download DataSet from Kitti DepthEstimation(for Depth map) and rawDataset(for IMU_DATA and RawImage to calculate opticalflow)
 
 ```bash
 python Train_module.py
